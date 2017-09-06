@@ -1,0 +1,46 @@
+.container {
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 5px;
+}
+.leftContainer {
+  width: 400px;
+  float: left;
+}
+.tabs_news {
+  padding-left: 10px;
+  width: 400px;
+  float: left;
+}
+.tabs_news li {
+  height: 27px;
+  line-height: 27px;
+  font-size: 14px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 417px;
+  float: left;
+  text-overflow: ellipsis;
+}
+.tabs_product {
+  width: 300px;
+  padding-left: 10px;
+  float: left;
+}
+.tabs_product li {
+  height: 27px;
+  line-height: 27px;
+  font-size: 14px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 257px;
+  text-overflow: ellipsis;
+}
+.ant-carousel {
+  width: 400px;
+  float: left;
+}
+.ant-carousel img {
+  width: 400px;
+  height: 260px;
+}
