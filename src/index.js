@@ -8,6 +8,8 @@ import NewsDetail from './components/news_detail';
 import UserCenter from './components/user_center'
 
 
+
+
 import './componentsCss/pc.css'
 
 ReactDOM.render(
